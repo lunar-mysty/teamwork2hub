@@ -10,8 +10,8 @@ local Window = Rayfield:CreateWindow({
       FileName = "teamworkpuzzles"
    },
    Discord = {
-      Enabled = true,
-      Invite = "JZun8Kb8WS",
+      Enabled = false,
+      Invite = "nuh uh",
       RememberJoins = true -- Set this to false to make them join the discord every time they load it up
    },
    KeySystem = false, -- Set this to true to use our key system
